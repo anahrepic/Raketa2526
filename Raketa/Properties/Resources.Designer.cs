@@ -73,6 +73,16 @@ namespace Raketa.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap oblacic {
+            get {
+                object obj = ResourceManager.GetObject("oblacic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pozadina {
             get {
                 object obj = ResourceManager.GetObject("pozadina", resourceCulture);
@@ -86,6 +96,26 @@ namespace Raketa.Properties {
         internal static System.Drawing.Bitmap prepreka {
             get {
                 object obj = ResourceManager.GetObject("prepreka", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap raketa1 {
+            get {
+                object obj = ResourceManager.GetObject("raketa1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap srce {
+            get {
+                object obj = ResourceManager.GetObject("srce", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
